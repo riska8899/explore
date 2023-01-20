@@ -4,8 +4,8 @@ items:
  - Theano/Theano
  - BVLC/caffe
  - facebookarchive/models
- - apache/incubator-mxnet
- - eclipse/deeplearning4j
+ - apache/mxnet
+ - deeplearning4j/deeplearning4j
  - sdhnshu/Pytorch-Model-Zoo
  - Lasagne/Recipes
  - albertomontesg/keras-model-zoo
