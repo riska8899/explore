@@ -16,7 +16,7 @@ items:
  - optimizely/nuclear-js
  - jashkenas/backbone
  - dojo/dojo
- - joxji/hyperapp
+ - jorgebucaran/hyperapp
  - riot/riot
  - Daemonite/material
  - lit/lit
