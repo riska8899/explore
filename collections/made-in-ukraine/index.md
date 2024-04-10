@@ -7,7 +7,7 @@ items:
  - denysdovhan/wtfjs
  - dimsemenov/PhotoSwipe
  - trailofbits/algo
- - Redis-Insight/RedisDesktopManager
+ - RedisInsight/RedisDesktopManager
  - trekhleb/homemade-machine-learning
  - vadimdemedes/ink
  - spaceship-prompt/spaceship-prompt
