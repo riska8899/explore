@@ -13,7 +13,6 @@ items:
  - capistrano/capistrano
  - statsd/statsd
  - graphite-project/graphite-web
- - elastic/logstash
  - prometheus/prometheus
  - fabric/fabric
  - grafana/grafana

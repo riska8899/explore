@@ -5,7 +5,6 @@ items:
  - italia/covid19-opendata-vaccini
  - middyjs/middy
  - nodejs/undici
- - elastic/elasticsearch-js
  - morrolinux/simple-ehm
  - micheleriva/coronablocker
  - HospitalRun/hospitalrun

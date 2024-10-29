@@ -14,7 +14,6 @@ items:
  - mochajs/mocha
  - lerna/lerna
  - github-linguist/linguist
- - elastic/elasticsearch
  - rails/rails
  - redis/redis
  - rails/sprockets
